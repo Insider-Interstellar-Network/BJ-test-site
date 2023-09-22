@@ -1,4 +1,4 @@
-const sounds = ['Young fly on the track']
+const sounds = ['Young fly on the track.mp3']
 
 sounds.forEach(sound => {
   const btn = document.createElement('button')
